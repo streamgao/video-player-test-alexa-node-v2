@@ -1,0 +1,17 @@
+.DS_Store
+package-lock.json
+sftp-config.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+ynpm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+
+# ask-cli config
+.ask/*
+
+*node_modules/
